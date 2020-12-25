@@ -250,3 +250,4 @@
 - [flask-rest-template](https://github.com/alexandre/flask-rest-template).
 - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine.
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more.
+- [flask-boilerplate]( https://github.com/idris-rampurawala/flask-boilerplate) - A Flask Boilerplate to quickly get started with production-grade flask application. It has some additional packages pre-configured for ease of development.
